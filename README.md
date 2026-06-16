@@ -1,6 +1,6 @@
-# 👨‍💻 Hi, I'm Sadman Sakib Khan!
+# Hi, I'm Sadman Sakib Khan!
 
-Welcome to my GitHub profile! I'm a passionate **Frontend Developer** currently learning and building with web technologies.
+Welcome to my GitHub profile! I'm a passionate learner.
 
 ## 🚀 What I'm Learning:
 [![Skills](https://skillicons.dev/icons?i=c,python)](#)
