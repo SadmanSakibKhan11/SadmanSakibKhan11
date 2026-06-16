@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** currently 
 [![Skills](https://skillicons.dev/icons?i=c,python)](#)
 
 ## 🔧 My Tools & Technologies:
-[![Skills](https://skillicons.dev/icons?i=CodeBlocks,pycharm)](#)
+[![Skills](https://skillicons.dev/icons?i=pycharm,vscode)](#)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadmansakibkhan11&label=Profile%20views&color=301934&style=flat" alt="sadmansakibkhan11" /> </p>
