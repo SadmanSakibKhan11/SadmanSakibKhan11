@@ -10,10 +10,7 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** currently 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadmansakibkhan11&label=Profile%20views&color=301934&style=flat" alt="sadmansakibkhan11" /> </p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadmansakibkhan11&theme=radical&hide_border=true" alt="sadmansakibkhan11" style="width: 50%;"/>
-<img src="https://github-readme-stats.vercel.app/api?username=sadmansakibkhan11&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="sadmansakibkhan11's Stats" style="width: 50%; height: 100%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadmansakibkhan11&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="sadmansakibkhan11's Top Languages" style="width: 50%;">
-<img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadmansakibkhan11&theme=radical" alt="Profile Details" style="width: 100%;">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadmansakibkhan11&theme=radical&hide_border=true" alt="sadmansakibkhan11" 
 
 
 ## 🔗 Let's Connect:
