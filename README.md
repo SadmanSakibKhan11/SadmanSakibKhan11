@@ -20,10 +20,10 @@ Welcome to my GitHub profile! I'm a passionate learner.
     </a>
     <a href="https://www.facebook.com/sadmankhan002" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="navid-zaman-khan" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/sakibkhansadman" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navid_zaman_khan" height="30" width="40" />
-    </a>
+    
+    
+      
+    
 </p>
 
 Feel free to check out my repositories, and let's collaborate! 😄
