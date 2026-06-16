@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate **Frontend Developer** currently learning and building with web technologies.
 
 ## 🚀 What I'm Learning:
-[![Skills](https://skillicons.dev/icons?i=c,html,css,bootstrap,tailwind,javascript,react,scss,git)](#)
+[![Skills](https://skillicons.dev/icons?i=c,python)](#)
 
 ## 🔧 My Tools & Technologies:
 [![Skills](https://skillicons.dev/icons?i=vscode,github)](#)
